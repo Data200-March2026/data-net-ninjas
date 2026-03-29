@@ -6,10 +6,10 @@
 Net Ninjas
 
 ### Team Members
-1. *Member 1 Ayusha KC (ayushaa4)*
-2. *Member 2 Bibhushi Karki (bibhushi15)*
-3. *Member 3 Binaya Raj Shrestha (binaya-36)*
-4. *Member 4 Prijina Gurung (prijinagurung)
+1. Member 1 Ayusha KC (ayushaa4)
+2. Member 2 Bibhushi Karki (bibhushi15)
+3. Member 3 Binaya Raj Shrestha (binaya-36)
+4. Member 4 Prijina Gurung (prijinagurung)
 
 
 ### Task Division
