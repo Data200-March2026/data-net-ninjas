@@ -87,3 +87,6 @@ Students will apply statistical and predictive modeling techniques to analyze a 
 - **Presentation and Collaboration (20%)**
 
 ---
+
+### App Link
+https://binaya-36-air-quality--app-3p3nsq.streamlit.app/
